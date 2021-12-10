@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:owl="	http://www.w3.org/2002/07/owl#"
+          xmlns:foaf="http://xmlns.com/foaf/0.1/"
+          xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman">
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Roman_Herzog" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Johannes_Rau" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Horst_K%C3%B6hler" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Christian_Wulff" />
+        <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Frank-Walter_Steinmeier" />
+    </rdf:Description>
+
+     
+<rdf:Description
+rdf:about="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker">
+  <xsd:Nama>Dr. Richard Karl Freiherr von Weizsäcke</xsd:Nama>
+  <xsd:Tanggal_lahir>15 April 1920</xsd:Tanggal_lahir>
+  <xsd:Periode>1984-1994</xsd:Periode>
+  <xsd:Asal>Stuttgart, Jerman.</xsd:Asal>
+  <xsd:Partai>CDU</xsd:Partai>
+  <xsd:Ibu_negara>Marianne Freifrau (Baroness) von Weizsäcker</xsd:Ibu_negara>
+  <xsd:Wafat>31 Januari 2015</xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Richard_von_Weizs%C3%A4cker.jpg</xsd:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="https://id.wikipedia.org/wiki/Roman_Herzog">
+  <xsd:Nama>Roman Herzog</xsd:Nama>
+  <xsd:Tanggal_lahir> 5 April 1934</xsd:Tanggal_lahir>
+  <xsd:Periode>1994-1999</xsd:Periode>
+  <xsd:Asal>Landshut, Jerman</xsd:Asal>
+  <xsd:Partai>CDU</xsd:Partai>
+  <xsd:Ibu_negara>Christiane Krauß (menikah 1959-2000)</xsd:Ibu_negara>
+  <xsd:Wafat>10 january 2017</xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Roman_Herzog.jpg</xsd:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="https://id.wikipedia.org/wiki/Johannes_Rau">
+  <xsd:Nama>Johannes Rau</xsd:Nama>
+  <xsd:Tanggal_lahir>16 Januari 1931</xsd:Tanggal_lahir>
+  <xsd:Periode>1999-2004</xsd:Periode>
+  <xsd:Asal>Wuppertal, Jerman</xsd:Asal>
+  <xsd:Partai>SPD</xsd:Partai>
+  <xsd:Ibu_negara>Christina Rau</xsd:Ibu_negara>
+  <xsd:Wafat>27 Januari 2006</xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Johannes_rau_2004-05-16_berlin_ausschnitt.jpg</xsd:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="https://id.wikipedia.org/wiki/Horst_K%C3%B6hler">
+  <xsd:Nama>Horst Köhler</xsd:Nama>
+  <xsd:Tanggal_lahir>22 Februari 1943</xsd:Tanggal_lahir>
+  <xsd:Periode>2004-2010</xsd:Periode>
+  <xsd:Asal>Heidenstein, Polandia</xsd:Asal>
+  <xsd:Partai>CDU</xsd:Partai>
+  <xsd:Ibu_negara>Eva Bohnet</xsd:Ibu_negara>
+  <xsd:Wafat> - </xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Horst_K%C3%B6hler.jpg</xsd:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="https://id.wikipedia.org/wiki/Christian_Wulff">
+  <xsd:Nama>Christian Wilhelm Walter Wulff</xsd:Nama>
+  <xsd:Tanggal_lahir>19 Juni 1959</xsd:Tanggal_lahir>
+  <xsd:Periode>2010-1012</xsd:Periode>
+  <xsd:Asal>Osnabrück, Jerman Barat</xsd:Asal>
+  <xsd:Partai>CDU</xsd:Partai>
+  <xsd:Ibu_negara>Bettina Korner</xsd:Ibu_negara>
+  <xsd:Wafat> - </xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Landtag_Niedersachsen_DSCF7769.JPG</xsd:img>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="https://id.wikipedia.org/wiki/Frank-Walter_Steinmeier">
+  <xsd:Nama>Joachim Gauck</xsd:Nama>
+  <xsd:Tanggal_lahir>24 Januari 1940</xsd:Tanggal_lahir>
+  <xsd:Periode>2012-2017</xsd:Periode>
+  <xsd:Asal>Rostock, Jerman</xsd:Asal>
+  <xsd:Partai>Independen</xsd:Partai>
+  <xsd:Ibu_negara>Gerhild Gauck</xsd:Ibu_negara>
+  <xsd:Wafat> - </xsd:Wafat>
+  <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:2012-06-05_Bundespraesident_Joachim_Gauck_Berlin.jpg</xsd:img>
+</rdf:Description>
+</rdf:RDF>
