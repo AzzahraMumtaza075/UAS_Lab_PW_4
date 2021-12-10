@@ -1,17 +1,16 @@
 <?xml version="1.0"?>
 
 <rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:owl="	http://www.w3.org/2002/07/owl#"
           xmlns:foaf="http://xmlns.com/foaf/0.1/"
           xmlns:dc="http://purl.org/dc/elements/1.1/"> 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia">
         <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Soekarno" />
         <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Soeharto" />
-        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/B._J._Habibie" />
-        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Abdurrahman_Wahid" />
-        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Megawati_Soekarnoputri" />
-        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono" />
-        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Joko_Widodo" />
+        <dc:know rdf:resource="https://id.wikipedia.org/wiki/B._J._Habibie" />
+        <dc:know rdf:resource="https://id.wikipedia.org/wiki/Abdurrahman_Wahid" />
+        <dc:know rdf:resource="https://id.wikipedia.org/wiki/Megawati_Soekarnoputri" />
+        <dc:know rdf:resource="https://id.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono" />
+        <dc:know rdf:resource="https://id.wikipedia.org/wiki/Joko_Widodo" />
     </rdf:Description>
      
 <rdf:Description
@@ -24,6 +23,7 @@ rdf:about="https://id.wikipedia.org/wiki/Soekarno">
   <dc:Ibu_negara>Ratna Sari Dewi Soekarno</dc:Ibu_negara>
   <dc:Wafat>21 Juni 1970</dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Presiden_Sukarno.jpg</dc:img>
+  <dc:identifier>presiden1.php </dc:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -36,6 +36,7 @@ rdf:about="https://id.wikipedia.org/wiki/Soeharto">
   <dc:Ibu_negara>Fatimah Siti Hartinah Soeharto</dc:Ibu_negara>
   <dc:Wafat>27 Januari 2008</dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:President_Suharto,_1993.jpg</dc:img>
+  <dc:identifier>presiden2.php </dc:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -48,6 +49,7 @@ rdf:about="https://id.wikipedia.org/wiki/B._J._Habibie">
   <dc:Ibu_negara>Hasri Ainun Habibie</dc:Ibu_negara>
   <dc:Wafat>11 September 2019</dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Foto_Presiden_Habibie_1998.jpg</dc:img>
+  <dc:identifier>presiden3.php </dc:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -60,6 +62,7 @@ rdf:about="https://id.wikipedia.org/wiki/Abdurrahman_Wahid">
   <dc:Ibu_negara>Sinta Nuriyah</dc:Ibu_negara>
   <dc:Wafat>30 Desember 2009</dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Gusdur.jpg</dc:img>
+  <dc:identifier>presiden4.php </dc:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -69,9 +72,10 @@ rdf:about="https://id.wikipedia.org/wiki/Megawati_Soekarnoputri">
   <dc:Periode>2001-2004</dc:Periode>
   <dc:Asal>Yogyakarta</dc:Asal>
   <dc:Pendidikan>Fakultas Psikologi Universitas Indonesia Jakarta (1970-1972)</dc:Pendidikan>
-  <dc:Bapak_negara>Taufik Kiemas</dc:Bapak_negara>
+  <dc:Ibu_negara>Taufik Kiemas</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:President_Megawati_Sukarnoputri_-_Indonesia.jpg</dc:img>
+  <dc:identifier>presiden5.php </dc:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -84,6 +88,7 @@ rdf:about="https://id.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono">
   <dc:Ibu_negara>Kristiani Herawati</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Presiden_Susilo_Bambang_Yudhoyono.png</dc:img>
+  <dc:identifier>presiden6.php </dc:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -96,6 +101,7 @@ rdf:about="https://id.wikipedia.org/wiki/Joko_Widodo">
   <dc:Ibu_negara>Iriana</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_presiden_Indonesia#/media/Berkas:Joko_Widodo_2019_official_portrait.jpg</dc:img>
+  <dc:identifier>presiden7.php </dc:identifier>
 </rdf:Description>
 
 </rdf:RDF>
