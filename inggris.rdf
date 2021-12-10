@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 
 <rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:owl="	http://www.w3.org/2002/07/owl#"
           xmlns:foaf="http://xmlns.com/foaf/0.1/"
           xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <rdf:Description rdf:about="https://internasional.kompas.com/read/2018/05/30/16403971/biografi-tokoh-dunia-ratu-elizabeth-i-penguasa-inggris-era-keemasan?page=all">
