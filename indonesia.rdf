@@ -15,6 +15,7 @@
      
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Soekarno">
+  <dc:presiden>1</dc:presiden>
   <foaf:Name>Ir.Soekarno</foaf:Name>
   <foaf:Date>6 Juni 1901</foaf:Date>
   <dc:Periode>1945-1967</dc:Periode>
@@ -28,6 +29,7 @@ rdf:about="https://id.wikipedia.org/wiki/Soekarno">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Soeharto">
+  <dc:presiden>2</dc:presiden>
   <foaf:Name>Jend. Besar TNI Purn. Haji Muhammad Soeharto</foaf:Name>
   <foaf:Date>8 Juni 1921</foaf:Date>
   <dc:Periode>1967-1998</dc:Periode>
@@ -41,6 +43,7 @@ rdf:about="https://id.wikipedia.org/wiki/Soeharto">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/B._J._Habibie">
+  <dc:presiden>3</dc:presiden>
   <foaf:Name>Bacharuddin Jusuf Habibie</foaf:Name>
   <foaf:Date>25 Juni 1936</foaf:Date>
   <dc:Periode>1998-1999</dc:Periode>
@@ -54,6 +57,7 @@ rdf:about="https://id.wikipedia.org/wiki/B._J._Habibie">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Abdurrahman_Wahid">
+  <dc:presiden>4</dc:presiden>
   <foaf:Name>Abdurrahman Wahid</foaf:Name>
   <foaf:Date>4 Agustus 1940</foaf:Date>
   <dc:Periode>1999-2001</dc:Periode>
@@ -67,6 +71,7 @@ rdf:about="https://id.wikipedia.org/wiki/Abdurrahman_Wahid">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Megawati_Soekarnoputri">
+  <dc:presiden>5</dc:presiden>
   <foaf:Name>Megawati Soekarnoputri</foaf:Name>
   <foaf:Date>23 Januari 1947</foaf:Date>
   <dc:Periode>2001-2004</dc:Periode>
@@ -80,6 +85,7 @@ rdf:about="https://id.wikipedia.org/wiki/Megawati_Soekarnoputri">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono">
+  <dc:presiden>6</dc:presiden>
   <foaf:Name>Jenderal TNI (HOR) (Purn.) Prof. Dr. Dr. (HC). H. Susilo Bambang Yudhoyono, M.A.</foaf:Name>
   <foaf:Date>9 September 1949</foaf:Date>
   <dc:Periode>2004-2014</dc:Periode>
@@ -93,6 +99,7 @@ rdf:about="https://id.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Joko_Widodo">
+  <dc:presiden>7</dc:presiden>
   <foaf:Name>Ir. H. Joko Widodo</foaf:Name>
   <foaf:Date>21 Juni 1961</foaf:Date>
   <dc:Periode>2014-2021</dc:Periode>
