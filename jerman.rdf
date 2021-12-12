@@ -15,6 +15,7 @@
      
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker">
+  <dc:presiden>1</dc:presiden>
   <foaf:Nama>Dr. Richard Karl Freiherr von Weizsäcke</foaf:Nama>
   <foaf:Tanggal_lahir>15 April 1920</foaf:Tanggal_lahir>
   <dc:Periode>1984-1994</dc:Periode>
@@ -28,6 +29,7 @@ rdf:about="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Roman_Herzog">
+  <dc:presiden>2</dc:presiden>
   <foaf:Nama>Roman Herzog</foaf:Nama>
   <foaf:Tanggal_lahir> 5 April 1934</foaf:Tanggal_lahir>
   <dc:Periode>1994-1999</dc:Periode>
@@ -41,6 +43,7 @@ rdf:about="https://id.wikipedia.org/wiki/Roman_Herzog">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Johannes_Rau">
+  <dc:presiden>3</dc:presiden>
   <foaf:Nama>Johannes Rau</foaf:Nama>
   <foaf:Tanggal_lahir>16 Januari 1931</foaf:Tanggal_lahir>
   <dc:Periode>1999-2004</dc:Periode>
@@ -54,6 +57,7 @@ rdf:about="https://id.wikipedia.org/wiki/Johannes_Rau">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Horst_K%C3%B6hler">
+  <dc:presiden>4</dc:presiden>
   <foaf:Nama>Horst Köhler</foaf:Nama>
   <foaf:Tanggal_lahir>22 Februari 1943</foaf:Tanggal_lahir>
   <dc:Periode>2004-2010</dc:Periode>
@@ -67,6 +71,7 @@ rdf:about="https://id.wikipedia.org/wiki/Horst_K%C3%B6hler">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Christian_Wulff">
+  <dc:presiden>5</dc:presiden>
   <foaf:Nama>Christian Wilhelm Walter Wulff</foaf:Nama>
   <foaf:Tanggal_lahir>19 Juni 1959</foaf:Tanggal_lahir>
   <dc:Periode>2010-1012</dc:Periode>
@@ -80,6 +85,7 @@ rdf:about="https://id.wikipedia.org/wiki/Christian_Wulff">
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Frank-Walter_Steinmeier">
+  <dc:presiden>6</dc:presiden>
   <foaf:Nama>Joachim Gauck</foaf:Nama>
   <foaf:Tanggal_lahir>24 Januari 1940</foaf:Tanggal_lahir>
   <dc:Periode>2012-2017</dc:Periode>
