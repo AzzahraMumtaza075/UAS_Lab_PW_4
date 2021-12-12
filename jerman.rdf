@@ -16,7 +16,7 @@
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker">
   <dc:presiden>1</dc:presiden>
-  <foaf:Name>Dr. Richard Karl Freiherr von Weizsäcke</foaf:Name>
+  <foaf:Name>Dr Richard Karl Freiherr von Weizsäcke</foaf:Name>
   <foaf:Date>15 April 1920</foaf:Date>
   <dc:Periode>1984-1994</dc:Periode>
   <dc:Asal>Stuttgart, Jerman.</dc:Asal>
