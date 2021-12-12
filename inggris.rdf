@@ -5,7 +5,7 @@
           xmlns:dc="http://purl.org/dc/elements/1.1/"> 
     <rdf:Description rdf:about="https://internasional.kompas.com/read/2018/05/30/16403971/biografi-tokoh-dunia-ratu-elizabeth-i-penguasa-inggris-era-keemasan?page=all">
         <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya" />
-        <dc:know rdf:resource="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales" />
+        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales" />
     </rdf:Description>
 
      
@@ -20,7 +20,7 @@ rdf:about="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya">
   <dc:Pasangan>Pangeran Philip, Adipati Edinburgh</dc:Pasangan>
   <dc:Wangsa>Wangsa Windsor</dc:Wangsa>
   <dc:img>https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya#/media/Berkas:Queen_Elizabeth_II_March_2015.jpg</dc:img>
-  <dc:identifier>raja1.php</dc:identifier>
+  <dc:identifier>presiden8.php</dc:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -34,7 +34,7 @@ rdf:about="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales">
   <dc:Pasangan>Diana Frances Spencer</dc:Pasangan>
   <dc:Wangsa>Wangsa Windsor</dc:Wangsa>
   <dc:img>https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales#/media/Berkas:2019_Reuni%C3%A3o_Bilateral_com_o_Pr%C3%ADncipe_Charles_-_48948389972_(cropped).jpg</dc:img>
-  <dc:identifier>raja2.php</dc:identifier>
+  <dc:identifier>presiden9.php</dc:identifier>
 </rdf:Description>
 
 </rdf:RDF>
