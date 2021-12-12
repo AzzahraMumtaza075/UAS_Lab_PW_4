@@ -16,84 +16,84 @@
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker">
   <dc:presiden>1</dc:presiden>
-  <foaf:Nama>Dr. Richard Karl Freiherr von Weizsäcke</foaf:Nama>
-  <foaf:Tanggal_lahir>15 April 1920</foaf:Tanggal_lahir>
+  <foaf:Name>Dr. Richard Karl Freiherr von Weizsäcke</foaf:Name>
+  <foaf:Date>15 April 1920</foaf:Date>
   <dc:Periode>1984-1994</dc:Periode>
   <dc:Asal>Stuttgart, Jerman.</dc:Asal>
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Marianne Freifrau (Baroness) von Weizsäcker</dc:Ibu_negara>
   <dc:Wafat>31 Januari 2015</dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Richard_von_Weizs%C3%A4cker.jpg</dc:img>
-  <dc:identifier>presiden1.php</dc:identifier>
+  <dc:identifier>presiden10.php</dc:identifier>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Roman_Herzog">
   <dc:presiden>2</dc:presiden>
-  <foaf:Nama>Roman Herzog</foaf:Nama>
-  <foaf:Tanggal_lahir> 5 April 1934</foaf:Tanggal_lahir>
+  <foaf:Name>Roman Herzog</foaf:Name>
+  <foaf:Date> 5 April 1934</foaf:Date>
   <dc:Periode>1994-1999</dc:Periode>
   <dc:Asal>Landshut, Jerman</dc:Asal>
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Christiane Krauß (menikah 1959-2000)</dc:Ibu_negara>
   <dc:Wafat>10 january 2017</dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Roman_Herzog.jpg</dc:img>
-  <dc:identifier>presiden2.php</dc:identifier>
+  <dc:identifier>presiden11.php</dc:identifier>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Johannes_Rau">
   <dc:presiden>3</dc:presiden>
-  <foaf:Nama>Johannes Rau</foaf:Nama>
-  <foaf:Tanggal_lahir>16 Januari 1931</foaf:Tanggal_lahir>
+  <foaf:Name>Johannes Rau</foaf:Name>
+  <foaf:Date>16 Januari 1931</foaf:Date>
   <dc:Periode>1999-2004</dc:Periode>
   <dc:Asal>Wuppertal, Jerman</dc:Asal>
   <dc:Partai>SPD</dc:Partai>
   <dc:Ibu_negara>Christina Rau</dc:Ibu_negara>
   <dc:Wafat>27 Januari 2006</dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Johannes_rau_2004-05-16_berlin_ausschnitt.jpg</dc:img>
-  <dc:identifier>presiden3.php</dc:identifier>
+  <dc:identifier>presiden12.php</dc:identifier>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Horst_K%C3%B6hler">
   <dc:presiden>4</dc:presiden>
-  <foaf:Nama>Horst Köhler</foaf:Nama>
-  <foaf:Tanggal_lahir>22 Februari 1943</foaf:Tanggal_lahir>
+  <foaf:Name>Horst Köhler</foaf:Name>
+  <foaf:Date>22 Februari 1943</foaf:Date>
   <dc:Periode>2004-2010</dc:Periode>
   <dc:Asal>Heidenstein, Polandia</dc:Asal>
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Eva Bohnet</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Horst_K%C3%B6hler.jpg</dc:img>
-  <dc:identifier>presiden4.php</dc:identifier>
+  <dc:identifier>presiden13.php</dc:identifier>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Christian_Wulff">
   <dc:presiden>5</dc:presiden>
-  <foaf:Nama>Christian Wilhelm Walter Wulff</foaf:Nama>
-  <foaf:Tanggal_lahir>19 Juni 1959</foaf:Tanggal_lahir>
+  <foaf:Name>Christian Wilhelm Walter Wulff</foaf:Name>
+  <foaf:Date>19 Juni 1959</foaf:Date>
   <dc:Periode>2010-1012</dc:Periode>
   <dc:Asal>Osnabrück, Jerman Barat</dc:Asal>
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Bettina Korner</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Landtag_Niedersachsen_DSCF7769.JPG</dc:img>
-  <dc:identifier>presiden5.php</dc:identifier>
+  <dc:identifier>presiden14.php</dc:identifier>
 </rdf:Description>
 
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Frank-Walter_Steinmeier">
   <dc:presiden>6</dc:presiden>
-  <foaf:Nama>Joachim Gauck</foaf:Nama>
-  <foaf:Tanggal_lahir>24 Januari 1940</foaf:Tanggal_lahir>
+  <foaf:Name>Joachim Gauck</foaf:Name>
+  <foaf:Date>24 Januari 1940</foaf:Date>
   <dc:Periode>2012-2017</dc:Periode>
   <dc:Asal>Rostock, Jerman</dc:Asal>
   <dc:Partai>Independen</dc:Partai>
   <dc:Ibu_negara>Gerhild Gauck</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
   <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:2012-06-05_Bundespraesident_Joachim_Gauck_Berlin.jpg</dc:img>
-  <dc:identifier>presiden6.php</dc:identifier>
+  <dc:identifier>presiden15.php</dc:identifier>
 </rdf:Description>
 </rdf:RDF>
