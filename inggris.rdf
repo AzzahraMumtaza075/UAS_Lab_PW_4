@@ -5,15 +5,15 @@
           xmlns:dc="http://purl.org/dc/elements/1.1/"> 
     <rdf:Description rdf:about="https://internasional.kompas.com/read/2018/05/30/16403971/biografi-tokoh-dunia-ratu-elizabeth-i-penguasa-inggris-era-keemasan?page=all">
         <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya" />
-        <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales" />
+        <dc:know rdf:resource="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales" />
     </rdf:Description>
 
      
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya">
   <dc:presiden>1</dc:presiden>
-  <foaf:Nama>Ratu Elizabeth Alexandra Mary</foaf:Nama>
-  <foaf:Tanggal_lahir>21 April 1926</foaf:Tanggal_lahir>
+  <foaf:Name>Ratu Elizabeth Alexandra Mary</foaf:Name>
+  <foaf:Date>21 April 1926</foaf:Date>
   <dc:Berkuasa>6 Februari 1952</dc:Berkuasa>
   <dc:Asal>Mayfair, London, Inggris, Britania Raya</dc:Asal>
   <dc:Gelar>Baginda Ratu Elizabeth II (Her Majesty The Queen Elizabeth II)</dc:Gelar>
@@ -26,8 +26,8 @@ rdf:about="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya">
 <rdf:Description
 rdf:about="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales">
   <dc:presiden>2</dc:presiden>
-  <foaf:Nama>Charles, Pangeran Wales</foaf:Nama>
-  <foaf:Tanggal_lahir>14 November 1948</foaf:Tanggal_lahir>
+  <foaf:Name>Charles, Pangeran Wales</foaf:Name>
+  <foaf:Date>14 November 1948</foaf:Date>
   <dc:Berkuasa>26 Juli 1958</dc:Berkuasa>
   <dc:Asal>Istana Buckingham, London</dc:Asal>
   <dc:Gelar>Adipati Cornwall</dc:Gelar>
@@ -35,6 +35,4 @@ rdf:about="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales">
   <dc:Wangsa>Wangsa Windsor</dc:Wangsa>
   <dc:img>https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales#/media/Berkas:2019_Reuni%C3%A3o_Bilateral_com_o_Pr%C3%ADncipe_Charles_-_48948389972_(cropped).jpg</dc:img>
   <dc:identifier>presiden9.php</dc:identifier>
-</rdf:Description>
-
-</rdf:RDF>
+</rdf:
