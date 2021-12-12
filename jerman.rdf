@@ -23,7 +23,7 @@ rdf:about="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker">
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Marianne Freifrau (Baroness) von Weizsäcker</dc:Ibu_negara>
   <dc:Wafat>31 Januari 2015</dc:Wafat>
-  <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Richard_von_Weizs%C3%A4cker.jpg</dc:img>
+  <dc:img>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Richard_von_Weizs%C3%A4cker.jpg/220px-Richard_von_Weizs%C3%A4cker.jpg</dc:img>
   <dc:identifier>presiden10.php</dc:identifier>
 </rdf:Description>
 
@@ -37,7 +37,7 @@ rdf:about="https://id.wikipedia.org/wiki/Roman_Herzog">
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Christiane Krauß (menikah 1959-2000)</dc:Ibu_negara>
   <dc:Wafat>10 january 2017</dc:Wafat>
-  <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Roman_Herzog.jpg</dc:img>
+  <dc:img>https://upload.wikimedia.org/wikipedia/commons/3/33/Roman_Herzog.jpg</dc:img>
   <dc:identifier>presiden11.php</dc:identifier>
 </rdf:Description>
 
@@ -51,7 +51,7 @@ rdf:about="https://id.wikipedia.org/wiki/Johannes_Rau">
   <dc:Partai>SPD</dc:Partai>
   <dc:Ibu_negara>Christina Rau</dc:Ibu_negara>
   <dc:Wafat>27 Januari 2006</dc:Wafat>
-  <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Johannes_rau_2004-05-16_berlin_ausschnitt.jpg</dc:img>
+  <dc:img>https://www.bundespraesident.de/SharedDocs/Bilder/DE/Johannes-Rau/2000/01/Portraet-Bundespraesident-Rau.jpg?__blob=poster&v=2</dc:img>
   <dc:identifier>presiden12.php</dc:identifier>
 </rdf:Description>
 
@@ -65,7 +65,7 @@ rdf:about="https://id.wikipedia.org/wiki/Horst_K%C3%B6hler">
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Eva Bohnet</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
-  <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Horst_K%C3%B6hler.jpg</dc:img>
+  <dc:img>https://upload.wikimedia.org/wikipedia/commons/1/18/Horst_K%C3%B6hler.jpg</dc:img>
   <dc:identifier>presiden13.php</dc:identifier>
 </rdf:Description>
 
@@ -79,7 +79,7 @@ rdf:about="https://id.wikipedia.org/wiki/Christian_Wulff">
   <dc:Partai>CDU</dc:Partai>
   <dc:Ibu_negara>Bettina Korner</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
-  <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Landtag_Niedersachsen_DSCF7769.JPG</dc:img>
+  <dc:img>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Landtag_Niedersachsen_DSCF7769.JPG/220px-Landtag_Niedersachsen_DSCF7769.JPG</dc:img>
   <dc:identifier>presiden14.php</dc:identifier>
 </rdf:Description>
 
@@ -93,7 +93,7 @@ rdf:about="https://id.wikipedia.org/wiki/Frank-Walter_Steinmeier">
   <dc:Partai>Independen</dc:Partai>
   <dc:Ibu_negara>Gerhild Gauck</dc:Ibu_negara>
   <dc:Wafat> - </dc:Wafat>
-  <dc:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:2012-06-05_Bundespraesident_Joachim_Gauck_Berlin.jpg</dc:img>
+  <dc:img>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2012-06-05_Bundespraesident_Joachim_Gauck_Berlin.jpg/640px-2012-06-05_Bundespraesident_Joachim_Gauck_Berlin.jpg</dc:img>
   <dc:identifier>presiden15.php</dc:identifier>
 </rdf:Description>
 </rdf:RDF>
