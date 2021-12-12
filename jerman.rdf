@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 
 <rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:foaf="http://xmlns.com/foaf/0.1/"
           xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman">
         <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker" />
@@ -23,6 +22,7 @@ rdf:about="https://id.wikipedia.org/wiki/Richard_von_Weizs%C3%A4cker">
   <xsd:Ibu_negara>Marianne Freifrau (Baroness) von Weizsäcker</xsd:Ibu_negara>
   <xsd:Wafat>31 Januari 2015</xsd:Wafat>
   <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Richard_von_Weizs%C3%A4cker.jpg</xsd:img>
+  <xsd:identifier>presiden1.php</xsd:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -35,6 +35,7 @@ rdf:about="https://id.wikipedia.org/wiki/Roman_Herzog">
   <xsd:Ibu_negara>Christiane Krauß (menikah 1959-2000)</xsd:Ibu_negara>
   <xsd:Wafat>10 january 2017</xsd:Wafat>
   <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Roman_Herzog.jpg</xsd:img>
+  <xsd:identifier>presiden2.php</xsd:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -47,6 +48,7 @@ rdf:about="https://id.wikipedia.org/wiki/Johannes_Rau">
   <xsd:Ibu_negara>Christina Rau</xsd:Ibu_negara>
   <xsd:Wafat>27 Januari 2006</xsd:Wafat>
   <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Johannes_rau_2004-05-16_berlin_ausschnitt.jpg</xsd:img>
+  <xsd:identifier>presiden3.php</xsd:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -59,6 +61,7 @@ rdf:about="https://id.wikipedia.org/wiki/Horst_K%C3%B6hler">
   <xsd:Ibu_negara>Eva Bohnet</xsd:Ibu_negara>
   <xsd:Wafat> - </xsd:Wafat>
   <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Horst_K%C3%B6hler.jpg</xsd:img>
+  <xsd:identifier>presiden4.php</xsd:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -71,6 +74,7 @@ rdf:about="https://id.wikipedia.org/wiki/Christian_Wulff">
   <xsd:Ibu_negara>Bettina Korner</xsd:Ibu_negara>
   <xsd:Wafat> - </xsd:Wafat>
   <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:Landtag_Niedersachsen_DSCF7769.JPG</xsd:img>
+  <xsd:identifier>presiden5.php</xsd:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -83,5 +87,6 @@ rdf:about="https://id.wikipedia.org/wiki/Frank-Walter_Steinmeier">
   <xsd:Ibu_negara>Gerhild Gauck</xsd:Ibu_negara>
   <xsd:Wafat> - </xsd:Wafat>
   <xsd:img>https://id.wikipedia.org/wiki/Daftar_Presiden_Jerman#/media/Berkas:2012-06-05_Bundespraesident_Joachim_Gauck_Berlin.jpg</xsd:img>
+  <xsd:identifier>presiden6.php</xsd:identifier>
 </rdf:Description>
 </rdf:RDF>
