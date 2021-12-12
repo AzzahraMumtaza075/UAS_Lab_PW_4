@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 
 <rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:foaf="http://xmlns.com/foaf/0.1/"
           xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
     <rdf:Description rdf:about="https://internasional.kompas.com/read/2018/05/30/16403971/biografi-tokoh-dunia-ratu-elizabeth-i-penguasa-inggris-era-keemasan?page=all">
         <xsd:know rdf:resource="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya" />
@@ -19,6 +18,7 @@ rdf:about="https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya">
   <xsd:Pasangan>Pangeran Philip, Adipati Edinburgh</xsd:Pasangan>
   <xsd:Wangsa>Wangsa Windsor</xsd:Wangsa>
   <xsd:img>https://id.wikipedia.org/wiki/Elizabeth_II_dari_Britania_Raya#/media/Berkas:Queen_Elizabeth_II_March_2015.jpg</xsd:img>
+  <xsd:identifier>presiden1.php</xsd:identifier>
 </rdf:Description>
 
 <rdf:Description
@@ -31,5 +31,7 @@ rdf:about="https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales">
   <xsd:Pasangan>Diana Frances Spencer</xsd:Pasangan>
   <xsd:Wangsa>Wangsa Windsor</xsd:Wangsa>
   <xsd:img>https://id.wikipedia.org/wiki/Charles,_Pangeran_Wales#/media/Berkas:2019_Reuni%C3%A3o_Bilateral_com_o_Pr%C3%ADncipe_Charles_-_48948389972_(cropped).jpg</xsd:img>
+  <xsd:identifier>presiden.2php</xsd:identifier>
 </rdf:Description>
+
 </rdf:RDF>
